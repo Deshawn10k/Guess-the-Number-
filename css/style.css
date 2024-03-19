@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to bottom, #574caf, #2f8264);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap:20px;
+}
+
+input, button {
+  margin: 2px;
+}
+
+.checkbutton {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+h1{
+  display: flex;
+}
+
+.hio{
+  display: flex;
+}
